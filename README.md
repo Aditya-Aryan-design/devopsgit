@@ -1,2 +1,2 @@
 # devopsgit
-my readme md file
+This is duplicate
